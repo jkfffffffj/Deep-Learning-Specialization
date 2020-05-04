@@ -12,7 +12,8 @@ the reason I would like to create this repository is purely for academic use (in
 
 ### 1. Neural Network and Deep Learning
 * Week 1
-        * [Python Basics with numpy](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/python%20basics%20with%20numpy/Python_Basics_With_Numpy_v3a.ipynb)
+        
+	* [Python Basics with numpy](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/python%20basics%20with%20numpy/Python_Basics_With_Numpy_v3a.ipynb)
 	* [Logistic Regression as a Neural Network](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 
 * Week 2
