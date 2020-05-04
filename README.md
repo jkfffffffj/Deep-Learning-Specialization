@@ -1,14 +1,11 @@
 
 
-A series of online courses offered by [deeplearning.ai](https://www.deeplearning.ai/). I would like to say thanks to Prof. [**Andrew Ng**](www.andrewng.org) and his colleagues for spreading knowledge to normal people and great courses sincerely.  
+A series of online courses offered by [deeplearning.ai](https://www.deeplearning.ai/). In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach. 
 
 
 ### Reminder
 -------------------
-the reason I would like to create this repository is purely for academic use (in case for my future use). I am really glad if you can use it as a reference and happy to discuss with you about issues related with the course even further deep learning techniques. 
-
-**Please only use it as a reference**. The quiz and assignments are relatively easy to answer, hope you can have fun with the courses.  
-
+I am really glad if you can use it as a reference and happy to discuss with you about issues related with the course even further deep learning techniques. **Please only use it as a reference**. 
 
 ### 1. Neural Network and Deep Learning
 * Week 1
