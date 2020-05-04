@@ -5,7 +5,9 @@ A series of online courses offered by [deeplearning.ai](https://www.deeplearning
 
 ### Reminder
 -------------------
-This repository is strictly for academic use. Please use it as a reference only.
+**This repository is strictly for academic use. Please use it only as a reference.**
+
+
 
 ### 1. Neural Network and Deep Learning
 * Week 1
