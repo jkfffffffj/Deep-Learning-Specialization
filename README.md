@@ -46,9 +46,11 @@ A series of online courses offered by [deeplearning.ai](https://www.deeplearning
 ### 4. Convolutional Neural Network
 * Week 1
 	* [Convolutional Model- step by step](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Convolutional%20Model/Convolution_model_Step_by_Step_v2a.ipynb)
-        * [Convolutional Model- Application](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Convolutional%20Model/Convolution_model_Application_v1a.ipynb)
+        
+	* [Convolutional Model- Application](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Convolutional%20Model/Convolution_model_Application_v1a.ipynb)
 * Week 2
-        * [Keras](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Keras/Keras_Tutorial_v2a.ipynb)
+        
+	* [Keras](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Keras/Keras_Tutorial_v2a.ipynb)
 	* [ResNets](https://github.com/jkfffffffj/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks/Residual_Networks_v2a.ipynb)
 
 * Week 3
