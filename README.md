@@ -31,10 +31,17 @@ A series of online courses offered by [deeplearning.ai](https://www.deeplearning
 	
 ### 3. Structuring Machine Learning Projects
 * Week 1
-	* [Quiz 1]
+	* Introduction to ML Strategy
+	* Setting up your goal
+	* Comparing to human-level performance
+	* Machine Learning flight simulator
 
 * Week 2
-	* [Quiz 2]
+	* Error Analysis
+	* Mismatched training and dev/test set
+	* Learning from multiple tasks
+	* End-to-end deep learning
+	*  Machine Learning flight simulator
 
 ### 4. Convolutional Neural Network
 * Week 1
